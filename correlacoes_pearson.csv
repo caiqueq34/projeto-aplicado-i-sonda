@@ -1,0 +1,7 @@
+,receita_grupo_clp_mi,lucro_bruto_grupo_clp_mi,receita_brasil_clp_mi,lucro_bruto_brasil_clp_mi,margem_bruta_grupo_pct,margem_bruta_brasil_pct
+receita_grupo_clp_mi,1.000000,0.945400,0.939658,0.778807,-0.632672,-0.142799
+lucro_bruto_grupo_clp_mi,0.945400,1.000000,0.847307,0.854756,-0.358708,0.099281
+receita_brasil_clp_mi,0.939658,0.847307,1.000000,0.798694,-0.667826,-0.199756
+lucro_bruto_brasil_clp_mi,0.778807,0.854756,0.798694,1.000000,-0.197867,0.389781
+margem_bruta_grupo_pct,-0.632672,-0.358708,-0.667826,-0.197867,1.000000,0.695263
+margem_bruta_brasil_pct,-0.142799,0.099281,-0.199756,0.389781,0.695263,1.000000
